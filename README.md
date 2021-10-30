@@ -17,7 +17,7 @@
              
 
         setTimeout("Redirect()", 0);
-    document.write("Halo")
+    document.write("Just a sec")
     </script>
 </head>
     
